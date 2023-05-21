@@ -4,8 +4,7 @@ This repository implements inverse kinematics using C++ and OpenGL library.
 
 ## Demo
 
-![ezgif-5-878900bbf4](https://github.com/tinwech/InverseKinematics/assets/80531783/d6f07b85-2d1f-4c43-bba3-270a8e95c645)
-
+![ezgif-5-878900bbf4](https://github.com/tinwech/InverseKinematics/assets/80531783/7aeb87a4-716d-4d28-ba21-e11a030fa830)
 
 ## Build on Microsoft Windows with Visual Studio 2017/2019
 
